@@ -49,4 +49,6 @@
 
 <!-- github stats end -->
 
+<!-- Holopin Badges -->
+[![@yashnaravade's Holopin board](https://holopin.me/yashnaravade)](https://holopin.io/@yashnaravade)
 
