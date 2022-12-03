@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,5 +9,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+  <img  src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there%F0%9F%98%81;I'm+Yash;I've+got+a+few+things+to+show+you+all;So%2C+welcome+again+%F0%9F%98%89" />
+</a>
+</p>
 
