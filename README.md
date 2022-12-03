@@ -23,3 +23,13 @@
 <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
+
+<hr></hr>
+<p align="center">
+  <img  src="yash-naravade.svg" />
+</p>
+<!-- github stats -->
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=yashnaravade&show_icons=true&theme=radical" />
+</p>
+
