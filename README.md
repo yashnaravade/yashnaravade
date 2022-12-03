@@ -19,7 +19,6 @@
   <img  src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
    <a href="https://www.linkedin.com/in/yashnaravade/" target="_blank">
   <img  src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-</a>
 <a href= "https://www.instagram.com/stellar_dawg_ilxx/" target="_blank">
 <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
