@@ -33,3 +33,20 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=yashnaravade&show_icons=true&theme=radical" />
 </p>
 
+<!-- Github streak stats  -->
+<p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yashnaravade&theme=radical" />
+</p>
+<!-- git profile summary cards -->
+<p align="center">
+  <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashnaravade&theme=monokai" />
+</p>
+
+<!-- most used languages  -->
+<p align="center">
+  <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashnaravade&theme=monokai" />
+</p>
+
+<!-- github stats end -->
+
+
