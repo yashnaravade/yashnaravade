@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-  <img  src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there!%F0%9F%98%81;I'm+Yash!;How you doin'?;I've+got+sumn+to+show+you;So%2C+welcome+again+%F0%9F%98%89" />
-</a>
+<p align="center"> 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+;I'm+Yash!;How+you+doin'%3F;Lemme+show+you+sumn%2C+c'mon!" alt="Typing SVG" /></a>
 </p>
+
 
 <p align="center">
   <a href="https://forthebadge.com">
