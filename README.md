@@ -23,10 +23,21 @@
 </a>
 </p>
 
-<hr></hr>
+<hr/>
+
+<div align="center">
+&nbsp;
+
 <p align="center">
   <img  src="yash-naravade.svg" />
 </p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yashnaravade.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+&nbsp;
+
+</div>
+<hr></hr>
+
 <!-- github stats -->
 <p align="center">
   <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
