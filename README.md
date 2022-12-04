@@ -52,11 +52,15 @@
 </p>
 
 <!-- github stats end -->
+<hr/>
+
+
+<!-- languages and tools -->
 
 <!-- Holopin Badges -->
 [![@yashnaravade's Holopin board](https://holopin.me/yashnaravade)](https://holopin.io/@yashnaravade)
 
-<br/>
+<hr/>
 <br/>
 <p align="center">
   <a href="(https://forthebadge.com)">
