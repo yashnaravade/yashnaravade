@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img  src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there%F0%9F%98%81;I'm+Yash;I've+got+a+few+things+to+show+you+all;So%2C+welcome+again+%F0%9F%98%89" />
+  <img  src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there!%F0%9F%98%81;I'm+Yash!;How you doin'?;I've+got+sumn+to+show+you;So%2C+welcome+again+%F0%9F%98%89" />
 </a>
 </p>
 
@@ -52,3 +52,9 @@
 <!-- Holopin Badges -->
 [![@yashnaravade's Holopin board](https://holopin.me/yashnaravade)](https://holopin.io/@yashnaravade)
 
+<br/>
+<p align="center">
+  <a href="(https://forthebadge.com)">
+  <img  src="https://forthebadge.com/images/badges/built-with-love.svg" />
+</a>
+</p>
