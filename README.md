@@ -29,6 +29,11 @@
 </p>
 <!-- github stats -->
 <p align="center">
+  <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=yashnaravade&show_icons=true&theme=radical" />
 </p>
 
@@ -51,6 +56,7 @@
 <!-- Holopin Badges -->
 [![@yashnaravade's Holopin board](https://holopin.me/yashnaravade)](https://holopin.io/@yashnaravade)
 
+<br/>
 <br/>
 <p align="center">
   <a href="(https://forthebadge.com)">
