@@ -40,6 +40,11 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-473%20Thousand%20lines%20of%20code-blue)
+ 
+ <p align="center">
+  <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
+</p>
 
 **🐱 My GitHub Data** 
 
@@ -112,11 +117,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 <hr></hr>
 
 <!-- github stats -->
-<p align="center">
-  <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-</a>
-</p>
-
+   
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=yashnaravade&show_icons=true&theme=radical" />
 </p>
