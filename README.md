@@ -33,11 +33,6 @@
 
   
 </p>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yashnaravade.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-&nbsp;
-
-📊 **This Week I Spent My Time On:**
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
