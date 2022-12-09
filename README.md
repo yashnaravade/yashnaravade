@@ -35,7 +35,7 @@
 </p>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-229-blue)
 
@@ -82,18 +82,18 @@ Sunday       45 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.0%
+VS Code                  1 hr 2 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-note-taking-app          24 mins             █████████████████████████   100.0%
+note-taking-app          1 hr 2 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.0%
+Windows                  1 hr 2 mins         █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/12/2022 00:39:04 UTC
+ Last Updated on 09/12/2022 00:42:13 UTC
 <!--END_SECTION:waka-->
 
 </div>
