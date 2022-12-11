@@ -35,21 +35,21 @@
 </p>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-279-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-478%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-479%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 220 Contributions in the Year 2022
+> 🏆 226 Contributions in the Year 2022
  > 
 > 📦 25.2 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
@@ -57,21 +57,21 @@
 
 ```text
 🌞 Morning    6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
-🌆 Daytime    47 commits     ██████░░░░░░░░░░░░░░░░░░░   24.87% 
-🌃 Evening    67 commits     ████████░░░░░░░░░░░░░░░░░   35.45% 
-🌙 Night      69 commits     █████████░░░░░░░░░░░░░░░░   36.51%
+🌆 Daytime    48 commits     ██████░░░░░░░░░░░░░░░░░░░   25.4% 
+🌃 Evening    65 commits     ████████░░░░░░░░░░░░░░░░░   34.39% 
+🌙 Night      70 commits     █████████░░░░░░░░░░░░░░░░   37.04%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
+Monday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
 Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
 Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
-Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
-Friday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.4% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
-Sunday       48 commits     ██████░░░░░░░░░░░░░░░░░░░   25.4%
+Thursday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
+Friday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
+Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Sunday       50 commits     ██████░░░░░░░░░░░░░░░░░░░   26.46%
 
 ```
 
@@ -94,7 +94,7 @@ Windows                  3 hrs 56 mins       ███████████�
 ```
 
 
- Last Updated on 11/12/2022 00:44:10 UTC
+ Last Updated on 11/12/2022 20:56:35 UTC
 <!--END_SECTION:waka-->
 
 </div>
