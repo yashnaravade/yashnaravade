@@ -35,21 +35,21 @@
 </p>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-250-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-478%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 222 Contributions in the Year 2022
+> 🏆 220 Contributions in the Year 2022
  > 
-> 📦 25.0 kB Used in GitHub's Storage 
+> 📦 25.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
@@ -82,19 +82,19 @@ Sunday       48 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 56 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Emoji-kit-kat            2 hrs 2 mins        ████████████████░░░░░░░░░   66.22% 
-note-taking-app          1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   33.78%
+Emoji-kit-kat            2 hrs 53 mins       ██████████████████░░░░░░░   73.44% 
+note-taking-app          1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   26.56%
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.0%
+Windows                  3 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 10/12/2022 18:51:59 UTC
+ Last Updated on 11/12/2022 00:44:10 UTC
 <!--END_SECTION:waka-->
 
 </div>
