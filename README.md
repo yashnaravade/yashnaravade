@@ -37,13 +37,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-499%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 290 Contributions in the Year 2022
+> 🏆 291 Contributions in the Year 2022
  > 
 > 📦 26.8 kB Used in GitHub's Storage 
  > 
@@ -82,22 +82,20 @@ Sunday       60 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 9 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-docs                     1 hr 9 mins         ████████████░░░░░░░░░░░░░   49.34% 
-TypeScript-revision      56 mins             ██████████░░░░░░░░░░░░░░░   40.16% 
-communication-templates  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.82% 
-weather-app              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
-Food-api                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+docs                     1 hr 18 mins        ███████████████░░░░░░░░░░   60.53% 
+TypeScript-revision      45 mins             ████████░░░░░░░░░░░░░░░░░   34.74% 
+weather-app              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.73%
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.0%
+Windows                  2 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/12/2022 00:39:36 UTC
+ Last Updated on 28/12/2022 00:39:39 UTC
 <!--END_SECTION:waka-->
 
 </div>
