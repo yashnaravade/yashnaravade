@@ -101,6 +101,24 @@ Windows                  4 hrs 29 mins       ███████████�
 </div>
 <hr></hr>
 
+<!-- take a look at my prpjects -->
+
+<h2 align="center">👇Take a look at some of my projects👇</h2>
+
+<p align="center">
+  <a href="https://note-taking-app-qr5i-fzfivv98i-yashnaravade.vercel.app/" target="_blank">
+  <img  src="https://img.shields.io/badge/Note%20Taking%20App-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <a href="https://weather-app-flame-eta.vercel.app/" target="_blank">
+  <img  src="https://img.shields.io/badge/🌤️Weather%20App-000000?style=for-the-badge&logo=weather&logoColor=white"/>
+  <a href="https://emoji-kit-kat.vercel.app/" target="_blank">
+  <img  src="https://img.shields.io/badge/🗿Emoji%20Kit%20Kat-000000?style=for-the-badge&logo=emoji&logoColor=white"/>
+  <a href="https://dark-light-mode-react.vercel.app/" target="_blank">
+  <img  src="https://img.shields.io/badge/🌘Dark%20Light%20Mode-000000?style=for-the-badge&logo=dark&logoColor=white"/>
+
+
+
+
+<hr></hr>
 <!-- github stats -->
    
 <p align="center">
