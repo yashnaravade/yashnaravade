@@ -35,9 +35,9 @@
 </p>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-501%20Thousand%20lines%20of%20code-blue)
 
@@ -82,20 +82,20 @@ Sunday       60 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  3 hrs 36 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 29 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-weather-app              1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   39.64% 
-docs                     1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   31.25% 
-TypeScript-revision      1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.1%
+weather-app              2 hrs 19 mins       █████████████░░░░░░░░░░░░   51.54% 
+docs                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.14% 
+TypeScript-revision      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   23.32%
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████████████   100.0%
+Windows                  4 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/12/2022 19:34:29 UTC
+ Last Updated on 31/12/2022 00:38:19 UTC
 <!--END_SECTION:waka-->
 
 </div>
