@@ -114,6 +114,8 @@ Windows                  4 hrs 29 mins       ███████████�
   <img  src="https://img.shields.io/badge/🗿Emoji%20Kit%20Kat-000000?style=for-the-badge&logo=emoji&logoColor=white"/>
   <a href="https://dark-light-mode-react.vercel.app/" target="_blank">
   <img  src="https://img.shields.io/badge/🌘Dark%20Light%20Mode-000000?style=for-the-badge&logo=dark&logoColor=white"/>
+  <a href="http://detect-internet-connection.vercel.app/" target="_blank">
+  <img  src="https://img.shields.io/badge/🌐Detect%20Internet%20Connection-000000?style=for-the-badge&logo=Internet&logoColor=white"/>
 
 
 
