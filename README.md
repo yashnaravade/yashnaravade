@@ -35,9 +35,9 @@
 </p>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-486%20Thousand%20lines%20of%20code-blue)
 
@@ -82,20 +82,20 @@ Sunday       71 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 12 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-The-Full-Stack-Cafe      2 hrs 30 mins       ██████████████████████░░░   88.46% 
-docs                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.13% 
-doubt                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
+The-Full-Stack-Cafe      3 hrs 53 mins       ███████████████████████░░   92.21% 
+docs                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
+doubt                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.0%
+Windows                  4 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 10/01/2023 21:38:27 UTC
+ Last Updated on 11/01/2023 00:40:52 UTC
 <!--END_SECTION:waka-->
 
 </div>
