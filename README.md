@@ -35,9 +35,9 @@
 </p>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-484%20Thousand%20lines%20of%20code-blue)
 
@@ -82,20 +82,20 @@ Sunday       74 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  11 hrs 17 mins      █████████████████████████   100.0%
+VS Code                  7 hrs 6 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-The-Full-Stack-Cafe      10 hrs 58 mins      ████████████████████████░   97.26% 
-bootstrap-restaurant-temp16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
-JavaScript-Practice      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+The-Full-Stack-Cafe      6 hrs 47 mins       ████████████████████████░   95.65% 
+bootstrap-restaurant-temp16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
+JavaScript-Practice      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
 
 💻 Operating System: 
-Windows                  11 hrs 17 mins      █████████████████████████   100.0%
+Windows                  7 hrs 6 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 31/01/2023 00:45:26 UTC
+ Last Updated on 01/02/2023 00:48:42 UTC
 <!--END_SECTION:waka-->
 
 </div>
