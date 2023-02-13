@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457%20Thousand%20lines%20of%20code-blue)
 
@@ -82,21 +82,18 @@ Sunday          74 commits       █████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          7 mins              ██████████░░░░░░░░░░░░░░░   40.38 % 
-inf                      7 mins              █████████░░░░░░░░░░░░░░░░   39.16 % 
-Pikachu                  3 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.56 % 
-hello-world-2020         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 12/02/2023 00:45:29 UTC
+ Last Updated on 13/02/2023 00:44:45 UTC
 <!--END_SECTION:waka-->
 
 </div>
