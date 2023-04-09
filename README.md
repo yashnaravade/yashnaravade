@@ -35,7 +35,7 @@
 </p>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,17 +80,17 @@ Sunday                   79 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Python                   17 mins             █████████████████████████   100.00 % 
+Python                   3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/04/2023 00:33:01 UTC
+ Last Updated on 09/04/2023 00:36:33 UTC
 <!--END_SECTION:waka-->
 
 </div>
