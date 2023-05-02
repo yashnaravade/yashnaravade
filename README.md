@@ -80,17 +80,17 @@ Sunday                   79 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Python                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/05/2023 00:37:38 UTC
+ Last Updated on 02/05/2023 00:35:19 UTC
 <!--END_SECTION:waka-->
 
 </div>
