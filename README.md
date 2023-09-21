@@ -2,14 +2,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+;I'm+Yash!;How+you+doin'%3F;Lemme+show+you+sumn%2C+c'mon!" alt="Typing SVG" /></a>
 </p>
 
-
-<p align="center">
-  <a href="https://forthebadge.com">
-  <img  src="https://forthebadge.com/images/badges/winter-is-coming.svg" />
-  
-</a>
-</p>
-
   <p align="center"><b>👇Feel free to reach me at👇</b></p>
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?to=yashdip123@gmail.com&su=Hey&fs=1&tf=cm" target="_blank">
@@ -144,11 +136,3 @@ Windows                  9 hrs 20 mins       ███████████�
 
 <!-- Holopin Badges -->
 [![@yashnaravade's Holopin board](https://holopin.me/yashnaravade)](https://holopin.io/@yashnaravade)
-
-<hr/>
-<br/>
-<p align="center">
-  <a href="(https://forthebadge.com)">
-  <img  src="https://forthebadge.com/images/badges/built-with-love.svg" />
-</a>
-</p>
