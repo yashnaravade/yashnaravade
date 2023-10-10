@@ -138,4 +138,4 @@ Linux                    5 mins              ░░░░░░░░░░░�
 <!-- languages and tools -->
 
 <!-- Holopin Badges -->
-[![@yashnaravade's Holopin board](https://holopin.me/yashnaravade)](https://holopin.io/@yashnaravade)
+[![An image of @yashnaravade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashnaravade)](https://holopin.io/@yashnaravade)
