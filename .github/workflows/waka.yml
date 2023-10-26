@@ -20,4 +20,5 @@ jobs:
           LOCALE: "en"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LANGUAGE: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_PROFILE_VIEWS: "False"
