@@ -70,14 +70,13 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Giridurg                 44 mins             █████████████████░░░░░░░░   69.13 % 
-keto-1.0.0               19 mins             ████████░░░░░░░░░░░░░░░░░   30.87 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +92,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2024 00:32:19 UTC
+ Last Updated on 29/02/2024 00:33:11 UTC
 <!--END_SECTION:waka-->
 
 </div>
