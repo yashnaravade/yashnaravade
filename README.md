@@ -70,13 +70,14 @@ Sunday                   122 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bms-bot-master           32 mins             ████████████████░░░░░░░░░   64.18 % 
+book my show             18 mins             █████████░░░░░░░░░░░░░░░░   35.82 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +93,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2024 00:47:58 UTC
+ Last Updated on 23/09/2024 00:44:55 UTC
 <!--END_SECTION:waka-->
 
 </div>
