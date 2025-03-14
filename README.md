@@ -35,8 +35,6 @@
 
 > 📦 105.4 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 58 Public Repositories 
@@ -70,13 +68,13 @@ Sunday                   121 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Java-backend             6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +90,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/03/2025 00:48:01 UTC
+ Last Updated on 14/03/2025 00:46:51 UTC
 <!--END_SECTION:waka-->
 
 </div>
