@@ -68,13 +68,14 @@ Sunday                   121 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          3 mins              █████████████░░░░░░░░░░░░   50.46 % 
+Good.Boys.2019.1080p.BluR3 mins              ████████████░░░░░░░░░░░░░   49.54 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +91,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2025 00:53:23 UTC
+ Last Updated on 07/04/2025 00:51:59 UTC
 <!--END_SECTION:waka-->
 
 </div>
