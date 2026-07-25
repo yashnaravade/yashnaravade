@@ -41,42 +41,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-🌆 Daytime                1119 commits        ██████████████████░░░░░░░   71.18 % 
-🌃 Evening                193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-🌙 Night                  174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Tuesday                  112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Thursday                 103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Friday                   924 commits         ███████████████░░░░░░░░░░   58.78 % 
-Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Sunday                   124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,7 +54,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:44:49 UTC
+ Last Updated on 25/07/2026 01:44:51 UTC
 <!--END_SECTION:waka-->
 
 </div>
